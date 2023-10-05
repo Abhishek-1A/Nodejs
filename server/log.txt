@@ -7,3 +7,5 @@
 1696487032287: GET /favicon.ico New Req Received
 1696487061302: GET /signup New Req Received
 1696487695659: GET /signup New Req Received
+1696490238670: GET / New Req Received
+1696490250772: GET /about New Req Received
