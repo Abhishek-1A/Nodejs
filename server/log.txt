@@ -1,57 +1,9 @@
-1696482709922: New Req Received
-1696482710229: New Req Received
-1696482846489: / New Req Received
-1696482846774: /favicon.ico New Req Received
-1696482874449: /About New Req Received
-1696482874776: /favicon.ico New Req Received
-1696484003267: /About New Req Received
-1696484003876: /favicon.ico New Req Received
-1696484083483: /About New Req Received
-1696484238355: /contact-us New Req Received
-1696484239180: /favicon.ico New Req Received
-1696484247118: /contact-us New Req Received
-1696484247367: /favicon.ico New Req Received
-1696484279686: /About New Req Received
-1696484280102: /favicon.ico New Req Received
-1696484298510: /About New Req Received
-1696484298751: /favicon.ico New Req Received
-1696484300863: /About New Req Received
-1696484301095: /favicon.ico New Req Received
-1696484345170: / New Req Received
-1696484347130: /favicon.ico New Req Received
-1696484358926: /About New Req Received
-1696484362712: /favicon.ico New Req Received
-1696484540121: / New Req Received
-1696484541726: /About New Req Received
-1696484541993: /favicon.ico New Req Received
-1696484544437: /About New Req Received
-1696484544667: /favicon.ico New Req Received
-1696484552453: / New Req Received
-1696484553698: /favicon.ico New Req Received
-1696484558657: /About New Req Received
-1696484560044: /favicon.ico New Req Received
-1696484567181: / New Req Received
-1696484568027: /favicon.ico New Req Received
-1696484592733: / New Req Received
-1696484592981: /favicon.ico New Req Received
-1696484625623: /contact-us New Req Received
-1696484625971: /favicon.ico New Req Received
-1696484653415: /About New Req Received
-1696484661209: /about New Req Received
-1696484661581: /favicon.ico New Req Received
-1696484677460: / New Req Received
-1696484677777: /favicon.ico New Req Received
-1696485177489: / New Req Received
-1696485178226: /favicon.ico New Req Received
-1696485219576: /about New Req Received
-1696485219950: /favicon.ico New Req Received
-1696485342680: /about New Req Received
-1696485343024: /favicon.ico New Req Received
-1696485719459: /about?myname=john&userId=1&search=dog New Req Received
-1696485719829: /favicon.ico New Req Received
-1696485781662: /about?myname=john&userId=1&search=tik%20tac%20teo New Req Received
-1696485782029: /favicon.ico New Req Received
-1696485787193: /favicon.ico New Req Received
-1696485798613: /about?myname=john&userId=1&search=javascript%20tutorial New Req Received
-1696485798940: /favicon.ico New Req Received
-1696485801544: /favicon.ico New Req Received
+1696486439983: GET /about?myname=john&userId=1&search=dog New Req Received
+1696486440651: GET /favicon.ico New Req Received
+1696486445865: GET / New Req Received
+1696486446183: GET /favicon.ico New Req Received
+1696486525205: GET / New Req Received
+1696486525454: GET /favicon.ico New Req Received
+1696487032287: GET /favicon.ico New Req Received
+1696487061302: GET /signup New Req Received
+1696487695659: GET /signup New Req Received
